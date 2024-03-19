@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(226, 207, 122);
+}
+h1{
+    margin-bottom: 120px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+div .filename{
+    justify-content: center;
+    margin-top: 40px;
+}
+div .subbutton{
+    justify-content: center;
+    margin-top: 40px;
+}
